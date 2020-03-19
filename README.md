@@ -22,7 +22,7 @@ I built [my personal website](https://github.com/taylorbryant/bryant.io) using t
 
 ## Deploy
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/taylorbryant/next-starter-tailwind)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/paul-phan/paul-blog)
 
 ## License
 
