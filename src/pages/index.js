@@ -76,7 +76,7 @@ function Home() {
 			  </div>
 		  </div>
 		  <div className="w-full lg:w-2/5">
-			  <img src="https://media.pagefly.io/file/get/img_20191221_15560801-1jpeg-1584639840121.jpeg"
+			  <img src="/paul.jpeg"
 				   className="rounded-none lg:rounded-lg shadow-2xl hidden lg:block"/>
 
 		  </div>
