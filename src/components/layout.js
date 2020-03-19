@@ -1,16 +1,13 @@
-import Header from './header'
-import Footer from './footer'
-
 function Layout(props) {
 	return (
 		<div
 			className="flex flex-col min-h-screen font-sans antialiased text-gray-900 leading-normal tracking-wider bg-cover"
-			style={{backgroundImage: `url('https://source.unsplash.com/1L71sPT5XKc')`}}>
-			<Header/>
-			<main className="flex-1 w-full max-w-4xl p-4 mx-auto md:px-8 md:py-16">
+			style={{backgroundImage: `url('https://images.unsplash.com/photo-1583963793123-2cfce22eb7a1')`}}>
+			{/*<Header/>*/}
+			<main className="max-w-4xl flex items-center h-auto lg:h-screen flex-wrap mx-auto my-32 lg:my-0">
 				{props.children}
 			</main>
-			<Footer/>
+			{/*<Footer/>*/}
 		</div>
 	)
 }
